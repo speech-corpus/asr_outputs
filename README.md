@@ -19,5 +19,5 @@ The structure of dataset is :
 
 This reference texts are collected from videos on company financial quarters. The videos transcription and audio clipping have been taken from following links:
     
-    1. [(https://www.youtube.com/watch?v=OQJm1pd7jyw)(https://www.youtube.com/watch?v=OQJm1pd7jyw)]
+    1. [click here](https://www.youtube.com/watch?v=OQJm1pd7jyw)
     
