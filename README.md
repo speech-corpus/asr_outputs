@@ -1,14 +1,15 @@
 # asr_outputs
-ASR outputs of sentences spoken by 5 people using a general purpose ASR Engine.
-
+  1. ASR outputs of sentences spoken by 5 people using a general purpose ASR Engine.
+  2. Youtube videos transcriptions with start and end time.
 ## Description
-This dataset contains 2 files described as follows:
+This dataset contains 3 files described as follows:
   1. Set 1: 42 reference sentences spoken by 5 different speakers. Overall 210 reference-and-asrOutput pairs.
   
   2. Set 2: 100 reference sentences spoken by 5 different speakers. Overall 500 reference-and-asrOutput pairs.
   
-## Structure
-The structure of dataset is :
+  3. Set 3: 50 reference sentences collected from youtube videos of financial domain. Start and end time is provided with the link.
+## Structure Data Set 1 & 2
+The structure of dataset 1 & 2 is :
       
       | Reference Text | Speaker 1 | Speaker 2 | Speaker 3 | Speaker 4 | Speaker 5 |
        ---------------- ----------- ----------- ----------- ----------- -----------
@@ -32,3 +33,13 @@ This reference texts are collected from videos on company financial quarters. Th
 11. [https://www.youtube.com/watch?v=DqtP1aNv7Y8](https://www.youtube.com/watch?v=DqtP1aNv7Y8)
 12. [https://www.youtube.com/watch?v=F3UMmwGKP4c](https://www.youtube.com/watch?v=F3UMmwGKP4c)
     
+
+## Structure Data Set 3
+The structure of dataset 3 is :
+      
+      | Reference Text | Start Time | End Time | Link |
+       ---------------- ------------ ---------- ------
+      |     xxx        |     xxx    |    xxx   | xxx  |
+       ---------------- ------------ ---------- ------
+      |     xxx        |     xxx    |    xxx   | xxx  |
+       
